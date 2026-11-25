@@ -1,0 +1,10 @@
+POSTES_GENERES/
+reponses.txt
+classement_*.csv
+*.csv
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+

@@ -1,0 +1,2 @@
+L’écran est un périphérique de sortie.
+

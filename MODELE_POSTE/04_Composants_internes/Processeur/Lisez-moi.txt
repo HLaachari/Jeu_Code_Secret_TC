@@ -1,0 +1,2 @@
+Le processeur exécute les instructions.
+

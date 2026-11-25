@@ -1,0 +1,2 @@
+L’imprimante est un périphérique de sortie.
+
